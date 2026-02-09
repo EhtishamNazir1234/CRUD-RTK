@@ -43,8 +43,8 @@ A products CRUD app built with **Next.js**, **Redux Toolkit (RTK)**, **Tailwind 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/EhtishamNazir1234/CRUD-RTK.git
+cd CRUD-RTK
 
 # Install dependencies
 npm install
@@ -92,16 +92,3 @@ The app uses the [Fake Store API](https://fakestoreapi.com):
 - **DELETE** `/products/:id` — Delete product  
 
 Data is mocked and may not persist across requests.
-
----
-
-## License
-
-[MIT](LICENSE) (or your chosen license — add a `LICENSE` file if needed.)
-
----
-
-## Related docs
-
-- **[GITHUB_UPLOAD_CHECKLIST.md](./GITHUB_UPLOAD_CHECKLIST.md)** — What to fill in when uploading this project to GitHub (repo name, description, topics, push steps).
-- **[CODEBASE_DOCUMENTATION.md](./CODEBASE_DOCUMENTATION.md)** — In-depth technical documentation of the codebase.
