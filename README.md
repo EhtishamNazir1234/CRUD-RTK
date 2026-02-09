@@ -77,10 +77,6 @@ src/
 └── types/            # Product, ProductInput
 ```
 
-For a full technical walkthrough (data flow, Redux slice, API, components), see **[CODEBASE_DOCUMENTATION.md](./CODEBASE_DOCUMENTATION.md)**.
-
----
-
 ## API
 
 The app uses the [Fake Store API](https://fakestoreapi.com):
